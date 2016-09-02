@@ -28,5 +28,5 @@ class App extends React.Component{
   }
 }
 
-ReactDOM.render(<App number={1111}>이히히히</App>, document.getElementById('root'))
+React.render(<App number={1111}>이히히히</App>, document.getElementById('root'))
 
